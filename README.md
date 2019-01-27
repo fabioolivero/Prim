@@ -1,5 +1,5 @@
-# Prim
-Algoritmo di Prim [JAVA]
+# Algoritmo di Prim [JAVA]
+
 
 Realizzazione dell'algoritmo di Prim, per determinare la foresta ricoprente minima di un grafo pesato.
 Il grafo viene letto e caricato da un file .csv.
