@@ -10,4 +10,5 @@ L'algoritmo si appoggia ad una libreria per la gestione delle code di priorità 
 Il progetto è interamente sviluppato in Java e ogni funzione include gli unit testing realizzati con JUnit.
 
 Dimostrazione grafica dell'algoritmo in azione:
-![alt text](https://upload.wikimedia.org/wikipedia/commons/9/9b/PrimAlgDemo.gif)
+
+![prim](https://upload.wikimedia.org/wikipedia/commons/9/9b/PrimAlgDemo.gif)
