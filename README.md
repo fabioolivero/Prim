@@ -11,4 +11,4 @@ Il progetto è interamente sviluppato in Java e ogni funzione include gli unit t
 
 Dimostrazione grafica dell'algoritmo in azione:
 
-![prim](https://upload.wikimedia.org/wikipedia/commons/9/9b/PrimAlgDemo.gif)
+![prim](https://upload.wikimedia.org/wikipedia/commons/9/9b/PrimAlgDemo.gif "titolo")
